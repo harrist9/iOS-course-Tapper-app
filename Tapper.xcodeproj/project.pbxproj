@@ -192,6 +192,7 @@
 				TargetAttributes = {
 					E99E2C281BD9D03300485B5B = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = 56P3PHE54L;
 					};
 					E99E2C3C1BD9D03400485B5B = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -396,6 +397,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Tapper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thomasharris.Tapper;
@@ -407,6 +409,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Tapper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.thomasharris.Tapper;
