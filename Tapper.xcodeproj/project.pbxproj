@@ -484,6 +484,7 @@
 				E99E2C531BD9D03400485B5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E99E2C541BD9D03400485B5B /* Build configuration list for PBXNativeTarget "TapperTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				E99E2C561BD9D03400485B5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E99E2C571BD9D03400485B5B /* Build configuration list for PBXNativeTarget "TapperUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				E99E2C591BD9D03400485B5B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
